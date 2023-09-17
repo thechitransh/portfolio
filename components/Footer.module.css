@@ -1,0 +1,10 @@
+.main{
+    border-top-left-radius: 2rem;
+    display: block;
+    text-align: center;
+    padding-top: 1rem;
+    margin-top: 4rem;
+    background-color: rgba(0, 0, 0, 0.789);
+    color: rgb(255, 255, 255);
+    height: 4rem;
+}

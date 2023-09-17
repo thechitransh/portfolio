@@ -1,0 +1,19 @@
+.head{  
+    border-bottom-left-radius: 20px;
+    height: 4rem;
+}
+.links>a{
+    margin: 0rem 10px;
+    text-decoration: none;
+}
+
+@media (max-width:453px) {
+    .links{
+        width: 100%;
+        margin-left: 17px;
+    }
+    .links>a{
+    font-size: 10px;
+    margin: 5px;
+   }
+}

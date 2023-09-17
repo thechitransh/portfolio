@@ -1,0 +1,15 @@
+.box{
+    border-radius: 20px;
+    margin: 30px 180px;
+    padding: 20px 0px;
+    background-color: #f0f1f2;
+}
+@media (max-width:570px) {
+    .box{
+        margin: 50px 10px; 
+        
+    }
+    .box>p{
+        font-size: small;
+    }
+}
