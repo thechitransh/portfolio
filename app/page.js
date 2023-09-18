@@ -11,7 +11,7 @@ function page() {
     <>
       <div className={styles.header}>
         <Image className={styles.image} src={img} width={250} height={250} />
-        <h1>Chitransh Srivastava....</h1>
+        <h1>Chitransh Srivastava</h1>
         <h2>Front-End Devloper</h2>
         <p>
           To work an environment which encourage me to succeed and grow
