@@ -1,6 +1,9 @@
 .main{
     border-top-left-radius: 2rem;
     display: block;
+    width: 100%;
+    /* position: absolute;
+    bottom: -1rem; */
     text-align: center;
     padding-top: 1rem;
     margin-top: 4rem;
